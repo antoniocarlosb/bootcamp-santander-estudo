@@ -13,4 +13,6 @@
 
 /* Iniciando GIT e realizando commit */
 -> git init
-		  
+	
+/* Realizar uma publicação para servidor GitHub */	  
+-> git push origin main

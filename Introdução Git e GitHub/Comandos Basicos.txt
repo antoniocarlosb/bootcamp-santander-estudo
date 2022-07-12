@@ -16,3 +16,6 @@
 	
 /* Realizar uma publicação para servidor GitHub */	  
 -> git push origin main
+
+/* Realizar um Get do servidor pra o reposiutório local */	  
+-> git pull origin main
